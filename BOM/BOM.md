@@ -2,7 +2,7 @@
 ## (O) Denotes optional, Size variables notated in brackets as such: [ Large / Medium / Small ]
 
 ## Core:
-||||
+|Variant|Item|Quantity|
 |---------|-------------------------------------|---|
 | Common: | M3x20mm SHCS                        | 2 |
 |         | M3x35mm SHCS                        | 2 |
@@ -10,7 +10,7 @@
 |         | 3x50mm smooth pins OR  [M3x45 SHCS] | 2 |
 
 ## Rail Carriage:
-||||
+|Variant|Item|Quantity|
 |--------|-----------------------------|---|
 | MGN9:  | M3x6mm SHCS                 | 4 |
 |        | M3x16mm BHCS                | 3 |
@@ -28,7 +28,7 @@
 |        | 3x4x5mm M3 Heat Set Inserts | 4 |
 
 ## Probes:
-||||
+|Variant|Item|Quantity|
 |---------------------|-----------------------------------------------------------|------|
 | Spacer Mount:       | Female 2P JST-PH Header                                   | 2    |
 |                     | Male 3P JST-XH Header                                     | 1    |
@@ -43,7 +43,7 @@
 |                     | Probe Hardware (See Klicky / KlickyPCB repo for hardware) |      |
 
 ## Hotend Mounts:
-||||
+|Variant|Item|Quantity|
 |----------------------------|-------------------------------------------|---|
 | Common:                    | M2.5x14mm                                 | 4 |
 |                            | 2510 Axial (Delta ASB02505SHA-AY6B Pref.) | 1 |
