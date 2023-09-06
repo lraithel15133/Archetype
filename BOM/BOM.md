@@ -2,7 +2,7 @@
 ## (O) Denotes optional, Size variables notated in brackets as such: [ Large / Medium / Small ]
 
 ## Core:
-|Variant|Item|Quantity|
+|Variant/Type|Item|Quantity|
 |:--------|-------------------------------------|--:|
 | Common: |                                     |   |
 |         | M3x20mm SHCS                        | 2 |
@@ -11,7 +11,7 @@
 |         | 3x50mm smooth pins OR  [M3x45 SHCS] | 2 |
 
 ## Rail Carriage:
-|Variant|Item|Quantity|
+|Variant/Type|Item|Quantity|
 |:-------|-----------------------------|--:|
 | MGN9:  |                             |   |
 |        | M3x6mm SHCS                 | 4 |
@@ -30,7 +30,7 @@
 |        | 3x4x5mm M3 Heat Set Inserts | 4 |
 
 ## Probes:
-|Variant|Item|Quantity|
+|Variant/Type|Item|Quantity|
 |:--------------------|-----------------------------------------------------------|--:|
 | Spacer Mount:       |                                                           |   |
 |                     | Female 2P JST-PH Header                                   | 2 |
@@ -46,7 +46,7 @@
 |                     | Probe Hardware (See Klicky / KlickyPCB repo for hardware) |   |
 
 ## Hotend Mounts:
-|Variant|Item|Quantity|
+|Variant/Type|Item|Quantity|
 |:---------------------------|-------------------------------------------|--:|
 | Common:                    |                                           |   |
 |                            | M2.5x14mm                                 | 4 |
@@ -60,7 +60,7 @@
 
 ## Extruder Blocks:
 Breakneck Blocks and Flat-Top Blocks use common hardware.
-|Variant|Item|Quantity|
+|Variant/Type|Item|Quantity|
 |:-------------------------|-----------------------------|--:|
 | VZHextrudort:            |                             |   |
 |                          | M3x12mm SHCS                | 2 |
@@ -75,7 +75,7 @@ Breakneck Blocks and Flat-Top Blocks use common hardware.
 
 
 ## Archetypes:
-|Variant|Item|Quantity|
+|Variant/Type|Item|Quantity|
 |:----------|---------------------------------|--:|
 | Breakneck:|                                 |   |
 |           | 7040 fan                        | 1 |
