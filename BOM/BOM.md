@@ -1,5 +1,5 @@
 # Archetype BOM
-## (O) Denotes optional, Size variables notated in brackets as such [ Large / Medium / Small ]
+## (O) Denotes optional, Size variables notated in brackets as such: [ Large / Medium / Small ]
 
 ## Core:
 | Common: |                                     |   |
@@ -41,3 +41,17 @@
 | Klicky or KlickyPCB |                                                           |      |
 |                     | M3x12mm or 20mm if using Spacer Mount                     | 2    |
 |                     | Probe Hardware (See Klicky / KlickyPCB repo for hardware) |      |
+
+## Hotend Mounts:
+| Common:      |                                           |   |
+|--------------|-------------------------------------------|---|
+|              | M2.5x14mm                                 | 4 |
+|              | 2510 Axial (Delta ASB02505SHA-AY6B Pref.) | 1 |
+|              |                                           |   |
+| DragonUHF:   |                                           |   |
+| Rapido:      |                                           |   |
+| Goliath:     |                                           |   |
+|              | M2.5x8                                    | 4 |
+|              |                                           |   |
+| Waterheater: |                                           |   |
+|              | M3x??                                     | 6 |
