@@ -53,10 +53,10 @@
 |                            | 2510 Axial (Delta ASB02505SHA-AY6B Pref.) | 1 |
 |                            |                                           |   |
 | DragonUHF, Rapido, Goliath:|                                           |   |
-|                            | M2.5x8                                    | 4 |
+|                            | M2.5x8mm                                  | 4 |
 |                            |                                           |   |
 | Waterheater:               |                                           |   |
-|                            | M3x??                                     | 6 |
+|                            | M3x??mm                                   | 6 |
 
 ## Extruder Blocks:
 Breakneck Blocks and Flat-Top Blocks use common hardware.
@@ -66,11 +66,11 @@ Breakneck Blocks and Flat-Top Blocks use common hardware.
 |                          | M3x12mm SHCS                | 2 |
 |                          |                             |   |
 | Sherpa Micro:            |                             |   |
-|                          | M3x16 SHCS                  | 2 |
+|                          | M3x16mm SHCS                | 2 |
 |                          | 3x4x5mm M3 Heat Set Inserts | 2 |
 |                          |                             |   |
 | Sherpa Mini (Flat only): |                             |   |
-|                          | M3x16                       | 2 |
+|                          | M3x16 mm                    | 2 |
 |                          | 3x4x5mm M3 Heat Set Inserts | 2 |
 
 
@@ -78,15 +78,15 @@ Breakneck Blocks and Flat-Top Blocks use common hardware.
 |Variant/Type|Item|Quantity|
 |:----------|---------------------------------|--:|
 | Breakneck:|                                 |   |
-|           | 7040 fan                        | 1 |
-|           | 20mm  ID tubing                 |   |
+|           | 7040 Fan                        | 1 |
+|           | 20mm  ID Tubing                 |   |
 |           |                                 |   |
 | Atrocity: |                                 |   |
-|           | 3515 Axial fan [ASB03512HB-F00] | 2 |
-|           | M2.5 x 25mm                     | 8 |
+|           | 3515 Axial Fan [ASB03512HB-F00] | 2 |
+|           | M2.5x25mm                     | 8 |
 |           |                                 |   |
 | Mjolnir:  |                                 |   |
-|           | 5015 blower fan [BFB0512HH-F00] | 2 |
-|           | m3x16 FHCS                      | 2 |
-|           | m3x16 BHCS/FHCS                 | 2 |
+|           | 5015 Blower Fan [BFB0512HH-F00] | 2 |
+|           | M3x16mm FHCS                    | 2 |
+|           | M3x16mm BHCS/FHCS               | 2 |
 |           | 3x4x5mm M3 Heat Set Inserts     | 4 |
