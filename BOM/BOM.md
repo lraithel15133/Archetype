@@ -3,7 +3,7 @@
 
 ## Core:
 |Variant|Item|Quantity|
-|:---------|-------------------------------------|---|
+|:---------|-------------------------------------|---:|
 |Common:  | M3x20mm SHCS                        | 2 |
 |         | M3x35mm SHCS                        | 2 |
 |         | 3x4x5mm M3 Heat Set Inserts         | 4 |
@@ -11,7 +11,7 @@
 
 ## Rail Carriage:
 |Variant|Item|Quantity|
-|:--------|-----------------------------|---|
+|:--------|-----------------------------|---:|
 |MGN9:   | M3x6mm SHCS                 | 4 |
 |        | M3x16mm BHCS                | 3 |
 |        | M3 Flat Washer              | 3 |
@@ -29,22 +29,22 @@
 
 ## Probes:
 |Variant|Item|Quantity|
-|:---------------------|-----------------------------------------------------------|------|
-|Spacer Mount:        | Female 2P JST-PH Header                                   | 2    |
-|                     | Male 3P JST-XH Header                                     | 1    |
-|                     | Bout 22G Wire or sumfin                                   | ? ye |
-|                     |                                                           |      |
-|Beacon:              |                                                           |      |
-|                     | M3x[35 / 30 / 20mm] BHCS                                  | 2    |
-|                     | (O) Aluminium Standoff [25 / 20 / 10mm]                   | 2    |
-|                     |                                                           |      |
-|Klicky or KlickyPCB  |                                                           |      |
-|                     | M3x12mm or 20mm if using Spacer Mount                     | 2    |
-|                     | Probe Hardware (See Klicky / KlickyPCB repo for hardware) |      |
+|:---------------------|-----------------------------------------------------------|---:|
+|Spacer Mount:        | Female 2P JST-PH Header                                   | 2 |
+|                     | Male 3P JST-XH Header                                     | 1 |
+|                     | Bout 22G Wire or sumfin                                   | ? |
+|                     |                                                           |   |
+|Beacon:              |                                                           |   |
+|                     | M3x[35 / 30 / 20mm] BHCS                                  | 2 |
+|                     | (O) Aluminium Standoff [25 / 20 / 10mm]                   | 2 |
+|                     |                                                           |   |
+|Klicky or KlickyPCB  |                                                           |   |
+|                     | M3x12mm or 20mm if using Spacer Mount                     | 2 |
+|                     | Probe Hardware (See Klicky / KlickyPCB repo for hardware) |   |
 
 ## Hotend Mounts:
 |Variant|Item|Quantity|
-|:----------------------------|-------------------------------------------|---|
+|:----------------------------|-------------------------------------------|---:|
 |Common:                     |                                           |   |
 |                            | M2.5x14mm                                 | 4 |
 |                            | 2510 Axial (Delta ASB02505SHA-AY6B Pref.) | 1 |
@@ -58,7 +58,7 @@
 ## Extruder Blocks:
 Breakneck Blocks and Flat-Top Blocks use common hardware.
 |Variant|Item|Quantity|
-|:-------------------------|-----------------------------|---|
+|:-------------------------|-----------------------------|---:|
 |VZHextrudort:             |                             |   |
 |                          | M3x12mm SHCS                | 2 |
 |                          |                             |   |
@@ -73,7 +73,7 @@ Breakneck Blocks and Flat-Top Blocks use common hardware.
 
 ## Archetypes:
 |Variant|Item|Quantity|
-|:----------|---------------------------------|---|
+|:----------|---------------------------------|---:|
 |Breakneck: | 7040 fan                        | 1 |
 |           | 20mm  ID tubing                 |   |
 |           |                                 |   |
