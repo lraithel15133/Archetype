@@ -2,17 +2,15 @@
 ## (O) Denotes optional, Size variables notated in brackets as such: [ Large / Medium / Small ]
 
 ## Core:
-| Common: |                                     |   |
 |---------|-------------------------------------|---|
-|         | M3x20mm SHCS                        | 2 |
+| Common: | M3x20mm SHCS                        | 2 |
 |         | M3x35mm SHCS                        | 2 |
 |         | 3x4x5mm M3 Heat Set Inserts         | 4 |
 |         | 3x50mm smooth pins OR  [M3x45 SHCS] | 2 |
 
 ## Rail Carriage:
-| MGN9:  |                             |   |
 |--------|-----------------------------|---|
-|        | M3x6mm SHCS                 | 4 |
+| MGN9:  | M3x6mm SHCS                 | 4 |
 |        | M3x16mm BHCS                | 3 |
 |        | M3 Flat Washer              | 3 |
 |        | M5 Flat Washer              | 3 |
@@ -28,9 +26,8 @@
 |        | 3x4x5mm M3 Heat Set Inserts | 4 |
 
 ## Probes:
-| Spacer Mount:       |                                                           |      |
 |---------------------|-----------------------------------------------------------|------|
-|                     | Female 2P JST-PH Header                                   | 2    |
+| Spacer Mount:       | Female 2P JST-PH Header                                   | 2    |
 |                     | Male 3P JST-XH Header                                     | 1    |
 |                     | Bout 22G Wire or sumfin                                   | ? ye |
 |                     |                                                           |      |
@@ -43,12 +40,11 @@
 |                     | Probe Hardware (See Klicky / KlickyPCB repo for hardware) |      |
 
 ## Hotend Mounts:
-| Common:                    |                                           |   |
 |----------------------------|-------------------------------------------|---|
-|                            | M2.5x14mm                                 | 4 |
+| Common:                    | M2.5x14mm                                 | 4 |
 |                            | 2510 Axial (Delta ASB02505SHA-AY6B Pref.) | 1 |
 |                            |                                           |   |
-| DragonUHF, Rapido, Goliath |                                           |   |
+| DragonUHF, Rapido, Goliath:|                                           |   |
 |                            | M2.5x8                                    | 4 |
 |                            |                                           |   |
 | Waterheater:               |                                           |   |
