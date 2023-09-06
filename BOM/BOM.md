@@ -3,7 +3,7 @@
 
 ## Core:
 |Variant|Item|Quantity|
-|---------|-------------------------------------|---|
+|:---------|-------------------------------------|---|
 | Common: | M3x20mm SHCS                        | 2 |
 |         | M3x35mm SHCS                        | 2 |
 |         | 3x4x5mm M3 Heat Set Inserts         | 4 |
@@ -11,7 +11,7 @@
 
 ## Rail Carriage:
 |Variant|Item|Quantity|
-|--------|-----------------------------|---|
+|:--------|-----------------------------|---|
 | MGN9:  | M3x6mm SHCS                 | 4 |
 |        | M3x16mm BHCS                | 3 |
 |        | M3 Flat Washer              | 3 |
@@ -29,7 +29,7 @@
 
 ## Probes:
 |Variant|Item|Quantity|
-|---------------------|-----------------------------------------------------------|------|
+|:---------------------|-----------------------------------------------------------|------|
 | Spacer Mount:       | Female 2P JST-PH Header                                   | 2    |
 |                     | Male 3P JST-XH Header                                     | 1    |
 |                     | Bout 22G Wire or sumfin                                   | ? ye |
@@ -44,7 +44,7 @@
 
 ## Hotend Mounts:
 |Variant|Item|Quantity|
-|----------------------------|-------------------------------------------|---|
+|:----------------------------|-------------------------------------------|---|
 | Common:                    |                                           |   |
 |                            | M2.5x14mm                                 | 4 |
 |                            | 2510 Axial (Delta ASB02505SHA-AY6B Pref.) | 1 |
@@ -58,20 +58,7 @@
 ## Extruder Blocks:
 Breakneck Blocks and Flat-Top Blocks use common hardware.
 |Variant|Item|Quantity|
-|----------------------------------------------------------|-----------------------------|---|
-|                                                          |                             |   |
-|                                                          |                             |   |
-| VZHextrudort:                                            | M3x12mm SHCS                | 2 |
-|                                                          |                             |   |
-| Sherpa Micro:                                            | M3x16 SHCS                  | 2 |
-|                                                          | 3x4x5mm M3 Heat Set Inserts | 2 |
-|                                                          |                             |   |
-| Sherpa Mini (Flat only):                                 | M3x16                       | 2 |
-|                                                          | 3x4x5mm M3 Heat Set Inserts | 2 |
-
-## Archetypes:
-|Variant|Item|Quantity|
-|--------------------------|-----------------------------|---|
+|:-------------------------|-----------------------------|---|
 | VZHextrudort:            |                             |   |
 |                          | M3x12mm SHCS                | 2 |
 |                          |                             |   |
@@ -82,3 +69,20 @@ Breakneck Blocks and Flat-Top Blocks use common hardware.
 | Sherpa Mini (Flat only): |                             |   |
 |                          | M3x16                       | 2 |
 |                          | 3x4x5mm M3 Heat Set Inserts | 2 |
+
+
+## Archetypes:
+|Variant|Item|Quantity|
+|:----------|---------------------------------|---|
+| Breakneck | 7040 fan                        | 1 |
+|           | 20mm  ID tubing                 |   |
+|           |                                 |   |
+| Atrocity  |                                 |   |
+|           | 3515 Axial fan [ASB03512HB-F00] | 2 |
+|           | M2.5 x 25mm                     | 8 |
+|           |                                 |   |
+| Mjolnir   |                                 |   |
+|           | 5015 blower fan [BFB0512HH-F00] | 2 |
+|           | m3x16 FHCS                      | 2 |
+|           | m3x16 BHCS/FHCS                 | 2 |
+|           | 3x4x5mm M3 Heat Set Inserts     | 4 |
