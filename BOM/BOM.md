@@ -43,15 +43,13 @@
 |                     | Probe Hardware (See Klicky / KlickyPCB repo for hardware) |      |
 
 ## Hotend Mounts:
-| Common:      |                                           |   |
-|--------------|-------------------------------------------|---|
-|              | M2.5x14mm                                 | 4 |
-|              | 2510 Axial (Delta ASB02505SHA-AY6B Pref.) | 1 |
-|              |                                           |   |
-| DragonUHF:   |                                           |   |
-| Rapido:      |                                           |   |
-| Goliath:     |                                           |   |
-|              | M2.5x8                                    | 4 |
-|              |                                           |   |
-| Waterheater: |                                           |   |
-|              | M3x??                                     | 6 |
+| Common:                    |                                           |   |
+|----------------------------|-------------------------------------------|---|
+|                            | M2.5x14mm                                 | 4 |
+|                            | 2510 Axial (Delta ASB02505SHA-AY6B Pref.) | 1 |
+|                            |                                           |   |
+| DragonUHF, Rapido, Goliath |                                           |   |
+|                            | M2.5x8                                    | 4 |
+|                            |                                           |   |
+| Waterheater:               |                                           |   |
+|                            | M3x??                                     | 6 |
