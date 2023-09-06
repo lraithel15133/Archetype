@@ -4,7 +4,7 @@
 ## Core:
 |Variant|Item|Quantity|
 |:---------|-------------------------------------|---|
-| Common: | M3x20mm SHCS                        | 2 |
+|Common:  | M3x20mm SHCS                        | 2 |
 |         | M3x35mm SHCS                        | 2 |
 |         | 3x4x5mm M3 Heat Set Inserts         | 4 |
 |         | 3x50mm smooth pins OR  [M3x45 SHCS] | 2 |
@@ -12,13 +12,13 @@
 ## Rail Carriage:
 |Variant|Item|Quantity|
 |:--------|-----------------------------|---|
-| MGN9:  | M3x6mm SHCS                 | 4 |
+|MGN9:   | M3x6mm SHCS                 | 4 |
 |        | M3x16mm BHCS                | 3 |
 |        | M3 Flat Washer              | 3 |
 |        | M5 Flat Washer              | 3 |
 |        | 3x4x5mm M3 Heat Set Inserts | 5 |
 |        |                             |   |
-| MGN12: |                             |   |
+|MGN12:  |                             |   |
 |        | M3x6mm SHCS                 | 4 |
 |        | M3x16mm BHCS                | 2 |
 |        | M3x8mm BHCS                 | 2 |
@@ -30,43 +30,43 @@
 ## Probes:
 |Variant|Item|Quantity|
 |:---------------------|-----------------------------------------------------------|------|
-| Spacer Mount:       | Female 2P JST-PH Header                                   | 2    |
+|Spacer Mount:        | Female 2P JST-PH Header                                   | 2    |
 |                     | Male 3P JST-XH Header                                     | 1    |
 |                     | Bout 22G Wire or sumfin                                   | ? ye |
 |                     |                                                           |      |
-| Beacon:             |                                                           |      |
+|Beacon:              |                                                           |      |
 |                     | M3x[35 / 30 / 20mm] BHCS                                  | 2    |
 |                     | (O) Aluminium Standoff [25 / 20 / 10mm]                   | 2    |
 |                     |                                                           |      |
-| Klicky or KlickyPCB |                                                           |      |
+|Klicky or KlickyPCB  |                                                           |      |
 |                     | M3x12mm or 20mm if using Spacer Mount                     | 2    |
 |                     | Probe Hardware (See Klicky / KlickyPCB repo for hardware) |      |
 
 ## Hotend Mounts:
 |Variant|Item|Quantity|
 |:----------------------------|-------------------------------------------|---|
-| Common:                    |                                           |   |
+|Common:                     |                                           |   |
 |                            | M2.5x14mm                                 | 4 |
 |                            | 2510 Axial (Delta ASB02505SHA-AY6B Pref.) | 1 |
 |                            |                                           |   |
-| DragonUHF, Rapido, Goliath:|                                           |   |
+|DragonUHF, Rapido, Goliath: |                                           |   |
 |                            | M2.5x8                                    | 4 |
 |                            |                                           |   |
-| Waterheater:               |                                           |   |
+|Waterheater:                |                                           |   |
 |                            | M3x??                                     | 6 |
 
 ## Extruder Blocks:
 Breakneck Blocks and Flat-Top Blocks use common hardware.
 |Variant|Item|Quantity|
 |:-------------------------|-----------------------------|---|
-| VZHextrudort:            |                             |   |
+|VZHextrudort:             |                             |   |
 |                          | M3x12mm SHCS                | 2 |
 |                          |                             |   |
-| Sherpa Micro:            |                             |   |
+|Sherpa Micro:             |                             |   |
 |                          | M3x16 SHCS                  | 2 |
 |                          | 3x4x5mm M3 Heat Set Inserts | 2 |
 |                          |                             |   |
-| Sherpa Mini (Flat only): |                             |   |
+|Sherpa Mini (Flat only):  |                             |   |
 |                          | M3x16                       | 2 |
 |                          | 3x4x5mm M3 Heat Set Inserts | 2 |
 
@@ -74,14 +74,14 @@ Breakneck Blocks and Flat-Top Blocks use common hardware.
 ## Archetypes:
 |Variant|Item|Quantity|
 |:----------|---------------------------------|---|
-| Breakneck | 7040 fan                        | 1 |
+|Breakneck: | 7040 fan                        | 1 |
 |           | 20mm  ID tubing                 |   |
 |           |                                 |   |
-| Atrocity  |                                 |   |
+|Atrocity:  |                                 |   |
 |           | 3515 Axial fan [ASB03512HB-F00] | 2 |
 |           | M2.5 x 25mm                     | 8 |
 |           |                                 |   |
-| Mjolnir   |                                 |   |
+|Mjolnir:   |                                 |   |
 |           | 5015 blower fan [BFB0512HH-F00] | 2 |
 |           | m3x16 FHCS                      | 2 |
 |           | m3x16 BHCS/FHCS                 | 2 |
