@@ -45,7 +45,8 @@
 ## Hotend Mounts:
 |Variant|Item|Quantity|
 |----------------------------|-------------------------------------------|---|
-| Common:                    | M2.5x14mm                                 | 4 |
+| Common:                    |                                           |   |
+|                            | M2.5x14mm                                 | 4 |
 |                            | 2510 Axial (Delta ASB02505SHA-AY6B Pref.) | 1 |
 |                            |                                           |   |
 | DragonUHF, Rapido, Goliath:|                                           |   |
