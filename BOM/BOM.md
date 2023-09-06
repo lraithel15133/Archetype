@@ -54,3 +54,31 @@
 |                            |                                           |   |
 | Waterheater:               |                                           |   |
 |                            | M3x??                                     | 6 |
+
+## Extruder Blocks:
+Breakneck Blocks and Flat-Top Blocks use common hardware.
+|Variant|Item|Quantity|
+|----------------------------------------------------------|-----------------------------|---|
+|                                                          |                             |   |
+|                                                          |                             |   |
+| VZHextrudort:                                            | M3x12mm SHCS                | 2 |
+|                                                          |                             |   |
+| Sherpa Micro:                                            | M3x16 SHCS                  | 2 |
+|                                                          | 3x4x5mm M3 Heat Set Inserts | 2 |
+|                                                          |                             |   |
+| Sherpa Mini (Flat only):                                 | M3x16                       | 2 |
+|                                                          | 3x4x5mm M3 Heat Set Inserts | 2 |
+
+## Archetypes:
+|Variant|Item|Quantity|
+|-----------|---------------------------------|---|
+| Breakneck | 7040 fan                        | 1 |
+|           | 20mm  ID tubing                 |   |
+|           |                                 |   |
+| Atrocity  | 3515 Axial fan [ASB03512HB-F00] | 2 |
+|           | M2.5 x 25mm                     | 8 |
+|           |                                 |   |
+| Mjolnir   | 5015 blower fan [BFB0512HH-F00] | 2 |
+|           | m3x16 FHCS                      | 2 |
+|           | m3x16 BHCS/FHCS                 | 2 |
+|           | 3x4x5mm M3 Heat Set Inserts     | 4 |
